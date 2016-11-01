@@ -1,13 +1,14 @@
 {
   "name": "fe-unit-testing-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript unit testing skeleton",
   "main": "index.js",
+  "repository": "https://github.com/mikespencer/fe-unit-testing-starter",
   "scripts": {
     "test": "karma start"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["testing", "unit", "javascript", "test", "karma", "jasmine"],
+  "author": "Mike Spencer",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.13.2",

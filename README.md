@@ -1,5 +1,7 @@
 # FE Unit Testing Starter
 
+JavaScript unit testing skeleton
+
 ## Getting started
 
 1. Clone this repo
