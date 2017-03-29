@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/mikespencer/fe-unit-testing-starter/badges/gpa.svg)](https://codeclimate.com/github/mikespencer/fe-unit-testing-starter)
+
 # FE Unit Testing Starter
 
 JavaScript unit testing skeleton
